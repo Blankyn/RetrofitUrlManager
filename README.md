@@ -1,6 +1,7 @@
+[![](https://jitpack.io/v/Blankyn/RetrofitUrlManager.svg)](https://jitpack.io/#Blankyn/RetrofitUrlManager)
+
 # RetrofitUrlManager
 ## Let Retrofit support multiple baseUrl and can be change the baseUrl at runtime.
-
 ## Overview
 ![overview](art/overview.gif)
 
@@ -9,7 +10,7 @@
 
 ## Download
 ``` gradle
- implementation 'com.github.Blankyn:RetrofitUrlManager:1.0.1'
+ implementation 'com.github.Blankyn:RetrofitUrlManager:1.0.2'//请使用最新版本
  implementation 'com.squareup.okhttp3:okhttp:4.9.2'
 ```
 
