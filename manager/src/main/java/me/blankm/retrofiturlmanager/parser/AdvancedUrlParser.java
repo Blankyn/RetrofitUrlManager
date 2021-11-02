@@ -51,9 +51,6 @@ import okhttp3.HttpUrl;
  * 解析器会将 BaseUrl 全部替换成您传入的 Url 地址
  *
  * @see UrlParser
- * Created by JessYan on 09/06/2018 16:00
- * <a href="mailto:jess.yan.effort@gmail.com">Contact me</a>
- * <a href="https://github.com/JessYanCoding">Follow me</a>
  * ================================================
  */
 public class AdvancedUrlParser implements UrlParser {

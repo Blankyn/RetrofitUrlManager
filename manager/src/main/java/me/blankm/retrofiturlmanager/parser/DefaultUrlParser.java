@@ -29,9 +29,6 @@ import static me.blankm.retrofiturlmanager.RetrofitUrlManager.IDENTIFICATION_PAT
  * 自己改 {@link DefaultUrlParser} 的源码来达到扩展的目的是很笨的行为
  *
  * @see UrlParser
- * Created by JessYan on 17/07/2017 18:23
- * <a href="mailto:jess.yan.effort@gmail.com">Contact me</a>
- * <a href="https://github.com/JessYanCoding">Follow me</a>
  * ================================================
  */
 public class DefaultUrlParser implements UrlParser {

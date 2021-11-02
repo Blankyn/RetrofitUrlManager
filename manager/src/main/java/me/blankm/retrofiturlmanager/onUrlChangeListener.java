@@ -20,10 +20,6 @@ import okhttp3.HttpUrl;
 /**
  * ================================================
  * Url 监听器
- * <p>
- * Created by JessYan on 20/07/2017 14:18
- * <a href="mailto:jess.yan.effort@gmail.com">Contact me</a>
- * <a href="https://github.com/JessYanCoding">Follow me</a>
  * ================================================
  */
 public interface onUrlChangeListener {

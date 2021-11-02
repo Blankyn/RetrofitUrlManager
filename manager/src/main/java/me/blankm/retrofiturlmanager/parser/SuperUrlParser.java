@@ -63,9 +63,6 @@ import static me.blankm.retrofiturlmanager.RetrofitUrlManager.IDENTIFICATION_PAT
  * 经过本解析器解析后生成的新 URL 地址为 http://www.google.com/api/1
  *
  * @see UrlParser
- * Created by JessYan on 2018/6/21 16:41
- * <a href="mailto:jess.yan.effort@gmail.com">Contact me</a>
- * <a href="https://github.com/JessYanCoding">Follow me</a>
  * ================================================
  */
 public class SuperUrlParser implements UrlParser {

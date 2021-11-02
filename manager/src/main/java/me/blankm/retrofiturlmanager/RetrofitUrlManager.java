@@ -80,9 +80,6 @@ import static me.blankm.retrofiturlmanager.Utils.checkUrl;
  * <p>
  * 由此可见，自由度越强, 操作也越复杂, 所以可以根据自己的需求选择不同的模式, 并且也可以在需求变化时随意升级或降级这三种模式
  * <p>
- * Created by JessYan on 17/07/2017 14:29
- * <a href="mailto:jess.yan.effort@gmail.com">Contact me</a>
- * <a href="https://github.com/JessYanCoding">Follow me</a>
  * ================================================
  */
 public class RetrofitUrlManager {

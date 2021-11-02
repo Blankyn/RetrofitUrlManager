@@ -23,9 +23,6 @@ import java.util.Set;
  * 缓存
  *
  * @see LruCache
- * Created by JessYan on 25/09/2017 16:36
- * <a href="mailto:jess.yan.effort@gmail.com">Contact me</a>
- * <a href="https://github.com/JessYanCoding">Follow me</a>
  * ================================================
  */
 public interface Cache<K, V> {

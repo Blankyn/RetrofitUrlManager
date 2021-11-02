@@ -39,9 +39,6 @@ import okhttp3.HttpUrl;
  * 方法传入的 URL 地址是 https://www.google.com, 经过本解析器解析后生成的新 URL 地址为 http://www.google.com/wiki
  *
  * @see UrlParser
- * Created by JessYan on 17/07/2017 18:23
- * <a href="mailto:jess.yan.effort@gmail.com">Contact me</a>
- * <a href="https://github.com/JessYanCoding">Follow me</a>
  * ================================================
  */
 public class DomainUrlParser implements UrlParser {
