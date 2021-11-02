@@ -9,7 +9,8 @@
 
 ## Download
 ``` gradle
- implementation 'com.github.Blankyn:RetrofitUrlManager:1.0.0'
+ implementation 'com.github.Blankyn:RetrofitUrlManager:1.0.1'
+ implementation 'com.squareup.okhttp3:okhttp:4.9.2'
 ```
 
 ## Usage
