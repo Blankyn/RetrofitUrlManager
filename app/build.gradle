@@ -4,7 +4,7 @@ android {
     compileSdkVersion rootProject.compileSdkVersion
     buildToolsVersion rootProject.buildToolsVersion
     defaultConfig {
-        applicationId "me.jessyan.retrofiturlmanager.demo"
+        applicationId "me.blankm.retrofiturlmanager.demo"
         minSdkVersion 14
         targetSdkVersion rootProject.targetSdkVersion
         versionCode rootProject.versionCode
