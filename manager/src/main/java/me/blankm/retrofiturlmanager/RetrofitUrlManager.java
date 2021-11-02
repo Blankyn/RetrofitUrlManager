@@ -86,7 +86,7 @@ public class RetrofitUrlManager {
     private static final String TAG = "RetrofitUrlManager";
     private static final boolean DEPENDENCY_OKHTTP;
     private static final String DOMAIN_NAME = "Domain-Name";
-    private static final String GLOBAL_DOMAIN_NAME = "me.jessyan.retrofiturlmanager.globalDomainName";
+    private static final String GLOBAL_DOMAIN_NAME = "me.blankm.retrofiturlmanager.globalDomainName";
     public static final String DOMAIN_NAME_HEADER = DOMAIN_NAME + ": ";
     /**
      * 如果在 Url 地址中加入此标识符, 框架将不会对此 Url 进行任何切换 BaseUrl 的操作
