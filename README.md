@@ -9,9 +9,25 @@
 以最简洁的 **Api** 让 **Retrofit** 同时支持多个 **BaseUrl** 以及动态改变 **BaseUrl**.
 
 ## Download
+
+### Step 1. Add it in your root build.gradle at the end of repositories:
+
+```	groovy
+   allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+   }
+```
+
+### Step 2. Add the dependency
+
 ``` gradle
- implementation 'com.github.Blankyn:RetrofitUrlManager:1.0.2'//请使用最新版本
- implementation 'com.squareup.okhttp3:okhttp:4.9.2'
+   dependencies {
+        implementation 'com.github.Blankyn:RetrofitUrlManager:1.0.2'//请使用最新版本
+        implementation 'com.squareup.okhttp3:okhttp:4.9.2'
+   }
 ```
 
 ## Usage
