@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 JessYan
+ * Copyright 2017 blankm
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -71,7 +71,6 @@ import static me.blankm.retrofiturlmanager.demo.api.Api.GITHUB_DOMAIN_NAME;
  * <p>
  * 由此可见，自由度越强, 操作也越复杂, 所以可以根据自己的需求选择不同的模式, 并且也可以在需求变化时随意升级或降级这三种模式
  * <p>
- * Created  on 2021/11/2
  * ================================================
  */
 

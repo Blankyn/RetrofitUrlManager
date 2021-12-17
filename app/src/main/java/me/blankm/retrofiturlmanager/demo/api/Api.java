@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 JessYan
+ * Copyright 2017 blankm
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,15 +15,9 @@
  */
 package me.blankm.retrofiturlmanager.demo.api;
 
-/**
- * ================================================
- * Created by JessYan on 18/07/2017 17:01
- * <a href="mailto:jess.yan.effort@gmail.com">Contact me</a>
- * <a href="https://github.com/JessYanCoding">Follow me</a>
- * ================================================
- */
+
 public interface Api {
-    String APP_DEFAULT_DOMAIN = "http://jessyan.me";
+    String APP_DEFAULT_DOMAIN = "http://blankm.me";
 
     String APP_GITHUB_DOMAIN = "https://api.github.com";
     String APP_GANK_DOMAIN = "http://gank.io";

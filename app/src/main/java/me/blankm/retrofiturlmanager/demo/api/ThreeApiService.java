@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 JessYan
+ * Copyright 2017 blankm
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -24,13 +24,6 @@ import retrofit2.http.Path;
 import static me.blankm.retrofiturlmanager.RetrofitUrlManager.DOMAIN_NAME_HEADER;
 import static me.blankm.retrofiturlmanager.demo.api.Api.DOUBAN_DOMAIN_NAME;
 
-/**
- * ================================================
- * Created by JessYan on 19/07/2017 11:50
- * <a href="mailto:jess.yan.effort@gmail.com">Contact me</a>
- * <a href="https://github.com/JessYanCoding">Follow me</a>
- * ================================================
- */
 public interface ThreeApiService {
     /**
      * 如果不需要多个 BaseUrl, 继续使用初始化时传入 Retrofit 中的默认 BaseUrl, 就不要加上 DOMAIN_NAME_HEADER 这个 Header
